@@ -1,6 +1,9 @@
+# [Image2sound](https://mrkrabe.github.io/img2sound/)
+[![Build Status](https://travis-ci.org/mrKrabe/img2sound.svg?branch=master)](https://travis-ci.org/mrKrabe/img2sound)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
